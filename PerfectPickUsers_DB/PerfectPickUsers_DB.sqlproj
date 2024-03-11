@@ -63,9 +63,9 @@
     <Folder Include="Storage\" />
   </ItemGroup>
   <ItemGroup>
+    <Build Include="dbo\Tables\Countries.sql" />
     <Build Include="dbo\Tables\Res_Token.sql" />
     <Build Include="dbo\Tables\Users.sql" />
-    <Build Include="dbo\Tables\Countries.sql" />
     <Build Include="Storage\Log.sql" />
   </ItemGroup>
 </Project>
